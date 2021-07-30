@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mfiqbal
 - 👀 I’m interested in SystemVerilog for design, Python for machine learning and programming in general
-- 🌱 I’m currently learning machine learning
 - 💞️ 
-- 📫 you can reach me via email: mygirhub username @ gmail
+- 📫 you can reach me via email: mygithub username @ gmail
 
 <!---
 mfiqbal/mfiqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
